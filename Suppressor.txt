@@ -2,9 +2,9 @@ So you want to build yourself a suppressor.  Take advantage of that $0 tax stamp
 
 Follow these steps.
 
------------------------
+----------------------------------------------
 Getting your EFT file
------------------------
+----------------------------------------------
 ~~Part 1: Fingerprints~~
 In no particular order
 - Buy a fingerprinting pad, such as https://www.officedepot.com/a/products/717061/Lee-Fingerprint-Ink-Pad-Black/
@@ -29,6 +29,67 @@ https://github.com/Robbbbbbbbb/EFTSuite-Public
 8. Honestly at this point, follow the instructions on the github page because it has pictures and is straightforward. https://github.com/Robbbbbbbbb/EFTSuite-Public#usage-guide
 9. Boom, you now have an eft file you can upload to the eforms website.
 ~~/Part 2~~
+
+----------------------------------------------
+Taking a nice picture of yourself
+----------------------------------------------
+You will need to get a picture of yourself on a white-ish colord background.  The photo should be straight on, including only shoulders and head.  Think passport photo.
+It will need to be less than 3MB, so figure that out and make sure it is small enough.  I like to take a screenshot of it on my comptuer and save it through Paint as a new image.
+
+----------------------------------------------
+SAVE THE PHOTO WITH THE EFT FILE BECAUSE YOU WILL NEED BOTH FOR EACH FORM1 YOU ENTER. PUT THEM SOMEWHERE THAT IS BACKED UP.
+----------------------------------------------
+
+
+----------------------------------------------
+Create your ATF eforms account
+----------------------------------------------
+1. Go to https://eforms.atf.gov/
+2. Click "Register" under "Create an Eforms Account".
+3. Fill out everything and MAKE SURE YOU REMEMBER YOUR PIN. Write it down, put it in Bitwarden, just keep it somewhere.
+4. Now you can
+
+----------------------------------------------
+Log in to the eforms site and submit a form 1
+----------------------------------------------
+1. Click "Login" on https://eforms.atf.gov/
+2. Agree to the scary legal language
+3. Enter your username and password and voila.
+4. Click on the square for "ATF Form 1 (5320.1)".  As of writing this it was on the top left of the page.
+5. The steps below assume you will be filing as an individual, so select "Individual" and next.
+6. At the first step "Form 5320.1" go to the bottom of the screen and click next.
+7. At the second step "Application" click next.
+8. At the third step "Applicant" fill out everything marked with a *.  At the bottom of the page, read the questions and answer "no" honestly. 
+9. At the fourth step "Responsible Persons" find your name at the bottom and go all the way to the right side udner Actions.
+   9a. Click the "Edit Line Item" icon and fill out everything marked in RED.  Also, upload your photo and your Electronic Fingerprints (eft) files on the applicable lines. When done, click "Save and Close", and the Next.
+10. At the fifth step "CLEO", find the contact information for your local sherrif's office and enter the information on this page.  Click next.
+11. At the sixth step "Line Item" click the buttom "Add Firearm"
+   11a. In the Manufacturer Name, put "FORM 1 REGISTRATION".  It should autofill.  Verify the manufacturer with the button and select United States.  Click next.
+   11b. In the next page, Select Silencer as product type.  
+   11c. Select the model that applies to your build.  AFAIK the actual model is not registered with the ATF and you can call whatever you are building whatever model you want.  Select a pre-existing one. BUT REMEMBER THE MODEL MUST BE ENGRAVED ON THE SUPPRESSOR SO IF IT IS LONG, SUCKS TO SUCK.
+   11d. Select the caliber and the unit of measure.  If it is a 9mm can, 9 is the Caliber and mm is unit of measure.  If it is for a .22LR.  22 is the caliber, and caliber is the unit of measure.
+   11e. Enter the length.  Make sure it is close.  You can generally find this info online.
+   11f. Enter a serial number.  Each Serial Number must be unique to YOU.  Maybe model too, I honestly don't know.  Just make it short and swweet.  
+   11g. For the description, there are a few schools of thought.  One is put the minimum required such as "THIS IS AN FDM 3D PRINTED SUPPRESSOR.  NO PLANS OR MATERIALS WILL BE SOURCED OR CREATED UNTIL FORM APPROVAL".  In the past, I have given something like this:  "THIS SILENCER IS FDM 3D PRINTED WITH A 1/2X28 TO 5/8X24 THREAD ADAPTER", or "THIS SILENCER IS FDM 3D PRINTED WITH ALUMINUM TUBING REINFORCEMENT AND A 1/2X28 TO 3/4X16 THREAD ADAPTER".
+   11h. At this point, save the template because that makes it easier to enter more forms quickly later.  Click Next.
+   12i. You will be asked to upload electronic documentation about the suppressor.  For an exmaple, look at the document in this github titled "This is a list of all parts and materials that will be used to manufacture the silencer.docx".  Select yours, and click Finish, and when that window closes, click next.
+12. At the seventh step "Electronic Documents", skip it all and just click next.
+13. At the eighth step "Verify", make sure everything looks right, check the box "I verify all the above information is correct", and click next.
+14. The last step "Certify" will give you a red box notification if anything is out of order in the form.  If anything is listed there, go back and fix it.
+15. Check the box, click the buttons, and after you click next one last time you have your submitted form.  Expect to wait 2-3 months (as of June 2026).  Now you can
+
+----------------------------------------------
+Check on your submitted forms and view finalized forms.
+----------------------------------------------
+1. Click "Login" on https://eforms.atf.gov/
+2. Agree to the scary legal language
+3. Enter your username and password and voila.
+4. Click on the Search button near the middle right side of the screen.
+
+
+   
+
+
 
 
 
