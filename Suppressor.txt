@@ -61,18 +61,22 @@ Log in to the eforms site and submit a form 1
 7. At the second step "Application" click next.
 8. At the third step "Applicant" fill out everything marked with a *.  At the bottom of the page, read the questions and answer "no" honestly. 
 9. At the fourth step "Responsible Persons" find your name at the bottom and go all the way to the right side under Actions.
-   9a. Click the "Edit Line Item" icon and fill out everything marked in RED.  Also, upload your photo and your Electronic Fingerprints (eft) files on the applicable lines. When done, click "Save and Close", and the Next.
+   9a. Click the "Edit Line Item" icon and fill out everything marked in RED.  Also, upload your photo and your Electronic Fingerprints (eft) files on the applicable lines. When done, click "Save and Close", and then Next.
 10. At the fifth step "CLEO", find the contact information for your local sherrif's office and enter the information on this page.  Click next.
 11. At the sixth step "Line Item" click the buttom "Add Firearm"
    11a. In the Manufacturer Name, put "FORM 1 REGISTRATION".  It should autofill.  Verify the manufacturer with the button and select United States.  Click next.
    11b. In the next page, Select Silencer as product type.  
-   11c. Select the model that applies to your build.  AFAIK the actual model is not registered with the ATF and you can call whatever you are building whatever model you want.  Select a pre-existing one. BUT REMEMBER THE MODEL MUST BE ENGRAVED ON THE SUPPRESSOR SO IF IT IS LONG, SUCKS TO SUCK.
+   11c. Select the model that applies to your build.  AFAIK the actual model is not registered with the ATF and you can call whatever you are building whatever model you want.  Select a pre-existing one. 
+        BUT REMEMBER THE MODEL MUST BE ENGRAVED ON THE SUPPRESSOR SO IF IT IS LONG, SUCKS TO SUCK.
    11d. Select the caliber and the unit of measure.  If it is a 9mm can, 9 is the Caliber and mm is unit of measure.  If it is for a .22LR.  22 is the caliber, and caliber is the unit of measure.
    11e. Enter the length.  Make sure it is close.  You can generally find this info online.
    11f. Enter a serial number.  Each Serial Number must be unique to YOU.  Maybe model too, I honestly don't know.  Just make it short and swweet.  
-   11g. For the description, there are a few schools of thought.  One is to put the minimum required such as "NO PLANS OR MATERIALS WILL BE SOURCED OR CREATED UNTIL FORM APPROVAL".  In the past, I have given something like this:  "THIS SILENCER IS FDM 3D PRINTED WITH A 1/2X28 TO 5/8X24 THREAD ADAPTER", or "THIS SILENCER IS FDM 3D PRINTED WITH ALUMINUM TUBING REINFORCEMENT AND A 1/2X28 TO 3/4X16 THREAD ADAPTER".
+   11g. For the description, there are a few schools of thought.  One is to put the minimum required such as "NO PLANS OR MATERIALS WILL BE SOURCED OR CREATED UNTIL FORM APPROVAL".  
+        In the past, I have given something like this:  "THIS SILENCER IS FDM 3D PRINTED WITH A 1/2X28 TO 5/8X24 THREAD ADAPTER", or "THIS SILENCER IS FDM 3D PRINTED WITH ALUMINUM TUBING REINFORCEMENT AND A 1/2X28 TO 3/4X16 THREAD ADAPTER".
    11h. At this point, save the template because that makes it easier to enter more forms quickly later.  Click Next.
-   12i. You will be asked to upload electronic documentation about the suppressor.  For an exmaple, look at the document in this github titled "This is a list of all parts and materials that will be used to manufacture the silencer.docx".  Select yours, and click Finish, and when that window closes, click next.  If you don't want to be so descriptive about what you are building and you did the minimum for step 11g, just create a word doc with this in it "No parts or materials have been sourced for this silencer and will not be procured until this application has been reviewed and approved.".
+   12i. You will be asked to upload electronic documentation about the suppressor.  For an exmaple, look at the document in this github titled "This is a list of all parts and materials that will be used to manufacture the silencer.docx".  
+        Select yours, and click Finish, and when that window closes, click next.  If you don't want to be so descriptive about what you are building and you did the minimum for step 11g, just create a word doc with 
+        this in it "No parts or materials have been sourced for this silencer and will not be procured until this application has been reviewed and approved.".
 12. At the seventh step "Electronic Documents", skip it all and just click next.
 13. At the eighth step "Verify", make sure everything looks right, check the box "I verify all the above information is correct", and click next.
 14. The last step "Certify" will give you a red box notification if anything is out of order in the form.  If anything is listed there, go back and fix it.
