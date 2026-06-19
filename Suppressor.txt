@@ -1,0 +1,34 @@
+So you want to build yourself a suppressor.  Take advantage of that $0 tax stamp and do as many as you want.  It's a goddamn party.
+
+Follow these steps.
+
+-----------------------
+Getting your EFT file
+-----------------------
+~~Part 1: Fingerprints~~
+In no particular order
+- Buy a fingerprinting pad, such as https://www.officedepot.com/a/products/717061/Lee-Fingerprint-Ink-Pad-Black/
+- Download and print the FD-258 form.  Print a few, and practice doing your fingerprints given the instructions below  https://www.fbi.gov/file-repository/cjis/fd-258.pdf/view
+- View the video here from this timestamp to 2:06 to see how to do the fingerprints for the ETF file.  You only need the bottom row, or "slaps".  https://youtu.be/PB-cTEkgiho?si=-IFe3C_D-8Sz_u8j&t=100
+  Don't fillw out anything else on the card.  Literally just the bottom row.
+
+Once you are confident in your ability to do your fingerprints, pick the best form you've done and proceed with it.
+~~/Part 1~~
+
+~~Part 2: The EFT~~
+I used EFT Suite.  Yes it requires docker.  No it isn't that hard.  Instructions are available on the github page but I am going to lay some of them out there as well.
+https://github.com/Robbbbbbbbb/EFTSuite-Public
+
+1. Go to this page and scroll to the bottom.  https://docs.docker.com/desktop/
+2. Find the section titled "Install Docker Desktop" and click on the link that applies to your operating system.
+3. Download the file, and install Docker once the download completes.
+4. Once the install finishes, open Command Prompt.
+5. Enter this command:     docker pull robbstumpf/eftsuite:latest
+6. After the command finishes successfully, run this command:     docker run -p 8080:8080 robbstumpf/eftsuite
+7. Open your browser and navigate to:     http://localhost:8080
+8. Honestly at this point, follow the instructions on the github page because it has pictures and is straightforward. https://github.com/Robbbbbbbbb/EFTSuite-Public#usage-guide
+9. Boom, you now have an eft file you can upload to the eforms website.
+~~/Part 2~~
+
+
+
