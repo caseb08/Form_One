@@ -76,7 +76,8 @@ Log in to the eforms site and submit a form 1
    11h. At this point, save the template because that makes it easier to enter more forms quickly later.  Click Next.
    12i. You will be asked to upload electronic documentation about the suppressor.  For an exmaple, look at the document in this github titled "This is a list of all parts and materials that will be used to manufacture the silencer.docx".  
         Select yours, and click Finish, and when that window closes, click next.  If you don't want to be so descriptive about what you are building and you did the minimum for step 11g, just create a word doc with 
-        this in it "No parts or materials have been sourced for this silencer and will not be procured until this application has been reviewed and approved.".
+        this in it "No parts or materials have been sourced for this silencer and will not be procured until this application has been reviewed and approved.". You could also try "FABRICATION PROCESS AND MATERIALS USED WILL BE FINALIZED UPON 
+        RECEIPT OF AN APPROVED    FORM 1 TAX STAMP.  POTENTIAL MATERIALS MAY INCLUDE ITEMS OR MATERIALS FROM McMASTER CARR, ORILEYS AUTO PARTS, ONLINEMETALS, AND TOOLS FROM A SITE LIKE McMASTER CARR, AND ARE SUBJECT TO CHANGE."
 12. At the seventh step "Electronic Documents", skip it all and just click next.
 13. At the eighth step "Verify", make sure everything looks right, check the box "I verify all the above information is correct", and click next.
 14. The last step "Certify" will give you a red box notification if anything is out of order in the form.  If anything is listed there, go back and fix it.
