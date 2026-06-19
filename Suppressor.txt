@@ -60,7 +60,7 @@ Log in to the eforms site and submit a form 1
 6. At the first step "Form 5320.1" go to the bottom of the screen and click next.
 7. At the second step "Application" click next.
 8. At the third step "Applicant" fill out everything marked with a *.  At the bottom of the page, read the questions and answer "no" honestly. 
-9. At the fourth step "Responsible Persons" find your name at the bottom and go all the way to the right side udner Actions.
+9. At the fourth step "Responsible Persons" find your name at the bottom and go all the way to the right side under Actions.
    9a. Click the "Edit Line Item" icon and fill out everything marked in RED.  Also, upload your photo and your Electronic Fingerprints (eft) files on the applicable lines. When done, click "Save and Close", and the Next.
 10. At the fifth step "CLEO", find the contact information for your local sherrif's office and enter the information on this page.  Click next.
 11. At the sixth step "Line Item" click the buttom "Add Firearm"
