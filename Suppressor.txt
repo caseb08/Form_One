@@ -74,8 +74,8 @@ Log in to the eforms site and submit a form 1
    11g. For the description, there are a few schools of thought.  One is to put the minimum required such as "NO PLANS OR MATERIALS WILL BE SOURCED OR CREATED UNTIL FORM APPROVAL".  
         In the past, I have given something like this:  "THIS SILENCER IS FDM 3D PRINTED WITH A 1/2X28 TO 5/8X24 THREAD ADAPTER", or "THIS SILENCER IS FDM 3D PRINTED WITH ALUMINUM TUBING REINFORCEMENT AND A 1/2X28 TO 3/4X16 THREAD ADAPTER".
    11h. At this point, save the template because that makes it easier to enter more forms quickly later.  Click Next.
-   12i. You will be asked to upload electronic documentation about the suppressor.  For an exmaple, look at the document in this github titled "This is a list of all parts and materials that will be used to manufacture the silencer.docx".  
-        Select yours, and click Finish, and when that window closes, click next.  If you don't want to be so descriptive about what you are building and you did the minimum for step 11g, just create a word doc with 
+   11i. You will be asked to upload electronic documentation about the suppressor.  For an exmaple, look at the document in this github titled "This is a list of all parts and materials that will be used to manufacture the silencer.docx".  
+        Select yours, add a file description, click "Add Document", and click Finish, and when that window closes, click next.  If you don't want to be so descriptive about what you are building and you did the minimum for step 11g, just create a word doc with 
         this in it "No parts or materials have been sourced for this silencer and will not be procured until this application has been reviewed and approved.". You could also try "FABRICATION PROCESS AND MATERIALS USED WILL BE FINALIZED UPON 
         RECEIPT OF AN APPROVED FORM 1 TAX STAMP.  POTENTIAL MATERIALS MAY INCLUDE ITEMS OR MATERIALS FROM McMASTER CARR, ORILEYS AUTO PARTS, ONLINEMETALS, AND TOOLS FROM A SITE LIKE McMASTER CARR, AND ARE SUBJECT TO CHANGE."
 12. At the seventh step "Electronic Documents", skip it all and just click next.
