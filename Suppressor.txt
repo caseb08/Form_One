@@ -1,6 +1,6 @@
 So you want to build yourself a suppressor.  Or maybe you want to just give a federal agency busy work.  Either way, take advantage of that $0 tax stamp and submit as many as you want.
 
-Follow these steps.
+Follow these steps.  This guide assumes you are using Windows
 
 ----------------------------------------------
 Getting your EFT file
@@ -20,7 +20,7 @@ I used EFT Suite.  Yes it requires docker.  No it isn't that hard.  Instructions
 https://github.com/Robbbbbbbbb/EFTSuite-Public
 
 1. Go to this page and scroll to the bottom.  https://docs.docker.com/desktop/
-2. Find the section titled "Install Docker Desktop" and click on the link that applies to your operating system.
+2. Find the section titled "Install Docker Desktop" and click on the Windows link.
 3. Download the file, and install Docker once the download completes.
 4. Once the install finishes, open Command Prompt.
 5. Enter this command:     docker pull robbstumpf/eftsuite:latest
